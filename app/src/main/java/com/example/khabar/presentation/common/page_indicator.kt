@@ -19,7 +19,7 @@ fun PageIndicator(
     pageSize: Int,
     selectedPage : Int,
     selectedColor: Color = MaterialTheme.colorScheme.primary,
-    unselectedColor: Color = Color(0xFF3B5979)
+    unselectedColor: Color = Color(0xFF778896)
 ) {
     Row(
         modifier = modifier,
